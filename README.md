@@ -65,4 +65,4 @@ for county_name in county_votes:
         county_results = (
             f"{county_name}: {cvote_percentage:.1f}% ({cvotes:,})\n")
 ```
-can be edited to count states instead.
+can be edited to count states instead. Similarly, if the data were to include the party of the candidate a for loop similar to the one which counts the votes for individual candidates could be created to instead count the votes and percentages that went to each recorded party, i.e. Democrat, Republican, Independant, etc.
