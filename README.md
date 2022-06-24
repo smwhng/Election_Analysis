@@ -33,7 +33,7 @@ A Colorado Board of Elections employee has given you the following tasks in addi
 2. Calculate the total number of votes that were counted in each county.
 3. Determine the county with the largest voter turnout.
 
-## (Challenge) Election-Audit Results
+## (Challenge) Election Audit Results
 - There were 369,711 votes cast in the election.
 - The counties in the election were:
   - Arapahoe
